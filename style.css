@@ -12,8 +12,8 @@ html, body {
 
 li {
   display: inline;
-  font-size: 22px;
-  padding: 28px;
+  font-size: 20px;
+  padding: 29px;
 }
 
 .header {
@@ -30,6 +30,7 @@ li {
 
 li:first-child {
   background-color: #E52364;
+  font-size: 28px;
 }
 
 @media (max-width: 500px) {
