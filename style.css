@@ -13,11 +13,13 @@ html, body {
 li {
   display: inline;
   font-size: 28px;
+  /*padding: 15px;*/
 }
 
 .header {
   background-color: #30627E;
   color: white;
+  height: 80px;
 }
 
 li:first-child {
