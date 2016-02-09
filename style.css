@@ -16,6 +16,7 @@ li {
   padding: 23px 28px;
   margin-right: 17px;
   line-height: 80px;
+  background-color: #30627E;
 }
 
 .header {
@@ -43,7 +44,6 @@ it'll take up 100% of it's parent element
 @media (max-width: 500px) {
   ul li {
     width: 100%;
-    /*height: 100%;*/
     display: block;
     margin: 0;
   }
