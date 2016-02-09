@@ -19,6 +19,10 @@ li {
   color: white;
 }
 
+li:first-child {
+  background-color: #E52364;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
