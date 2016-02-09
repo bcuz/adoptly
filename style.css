@@ -34,8 +34,15 @@ li:first-child {
   font-size: 28px;
 }
 
+/* the li elements take up the entire
+with of the screen on smaller screens
+
+it'll take up 100% of it's parent element
+*/
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
+    /*display: block;*/
   }
 }
