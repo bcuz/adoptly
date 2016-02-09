@@ -13,7 +13,7 @@ html, body {
 li {
   display: inline;
   font-size: 28px;
-  /*padding: 15px;*/
+  padding: 28px;
 }
 
 .header {
