@@ -15,6 +15,7 @@ li {
   font-size: 20px;
   padding: 23px 28px;
   margin-right: 17px;
+  line-height: 80px;
 }
 
 .header {
@@ -22,11 +23,6 @@ li {
   color: white;
   height: 80px;
   text-align: center;
-}
-
-.header .container {
-  position: relative;
-  top: 20px;
 }
 
 li:first-child {
@@ -43,6 +39,7 @@ it'll take up 100% of it's parent element
 @media (max-width: 500px) {
   ul li {
     width: 100%;
-    /*display: block;*/
+    display: block;
+    margin: 0;
   }
 }
