@@ -35,6 +35,12 @@ ul {
   padding-left: 0px;
 }
 
+.jumbotron {
+  height: 500px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/adoptly/bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+
 /* the li elements take up the entire
 with of the screen on smaller screens
 
