@@ -12,6 +12,7 @@ html, body {
 
 li {
   display: inline;
+  font-size: 28px;
 }
 
 .header {
