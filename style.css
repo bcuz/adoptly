@@ -22,6 +22,11 @@ li {
   height: 80px;
 }
 
+.header .container {
+  position: relative;
+  top: 15px;
+}
+
 li:first-child {
   background-color: #E52364;
 }
