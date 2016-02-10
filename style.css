@@ -79,6 +79,10 @@ h1 {
   color: white;
 }
 
+.footer li {
+  display: inline;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
