@@ -54,4 +54,8 @@ it'll take up 100% of it's parent element
     margin: 0;
     padding: 0;
   }
+
+  li:first-child {
+    padding: 10px;
+  }
 }
