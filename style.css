@@ -13,9 +13,9 @@ html, body {
 li {
   display: inline;
   font-size: 20px;
-  padding: 23px 28px;
+  padding: 28px;
   margin-right: 17px;
-  line-height: 80px;
+  line-height: 65px;
   background-color: #30627E;
 }
 
