@@ -87,4 +87,8 @@ h1 {
   .supporting p {
     padding: 20px;
   }
+
+  .col-md-4:last-child p {
+    margin-bottom: 30px;
+}
 }
