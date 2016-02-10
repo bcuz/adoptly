@@ -49,6 +49,10 @@ h1 {
   font-weight: bold;
 }
 
+.supporting {
+  text-align: center;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
