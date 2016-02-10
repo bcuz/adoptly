@@ -10,7 +10,7 @@ html, body {
   padding: 0;
 }
 
-li {
+.header li {
   display: inline;
   font-size: 20px;
   padding: 28px;
@@ -25,7 +25,7 @@ li {
   text-align: center;
 }
 
-li:first-child {
+.header li:first-child {
   background-color: #E52364;
   font-size: 28px;
 }
