@@ -52,5 +52,6 @@ it'll take up 100% of it's parent element
     width: 100%;
     display: block;
     margin: 0;
+    padding: 0;
   }
 }
