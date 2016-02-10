@@ -56,6 +56,10 @@ h1 {
   font-family: 'Open Sans', sans-serif;
 }
 
+.btn-go {
+  border: 1px solid #428BCA;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
