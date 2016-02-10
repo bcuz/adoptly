@@ -54,7 +54,11 @@ h1 {
 
 .supporting p {
   font-family: 'Open Sans', sans-serif;
-  /*margin-bottom: 30px;*/
+  margin-bottom: 30px;
+}
+
+.col-md-4:last-child p {
+  margin-bottom: 50px;
 }
 
 .btn-go {
