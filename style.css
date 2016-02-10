@@ -43,6 +43,10 @@ ul {
   color: #E52364;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 /* the li elements take up the entire
 with of the screen on smaller screens
 
