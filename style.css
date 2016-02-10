@@ -43,6 +43,8 @@ ul {
   color: #E52364;
 }
 
+/* have to target the h1 instead of simply putting it in jumbotron
+  because bootstrap has an h1 itself that's setting font-weight */
 h1 {
   font-weight: bold;
 }
