@@ -53,6 +53,10 @@ h1 {
   text-align: center;
 }
 
+.supporting p {
+  font-family: 'Open Sans', sans-serif;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
