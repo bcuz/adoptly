@@ -67,4 +67,8 @@ h1 {
   li:first-child {
     padding: 10px;
   }
+
+  .supporting p {
+    padding: 20px;
+  }
 }
