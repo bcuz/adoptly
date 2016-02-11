@@ -96,7 +96,7 @@ h1 {
 }
 
 @media (max-width: 500px) {
-  ul li {
+  .header li {
     width: 100%;
     display: block;
     margin: 0;
@@ -122,4 +122,9 @@ h1 {
   .footer li {
     display: block;
   }
+
+  /*.footer {
+    line-height: 0;
+
+  }*/
 }
