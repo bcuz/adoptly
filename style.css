@@ -121,6 +121,7 @@ h1 {
 
   .footer li {
     display: block;
+    padding: 20px 10px;
   }
 
   .footer {
