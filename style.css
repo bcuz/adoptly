@@ -123,8 +123,13 @@ h1 {
     display: block;
   }
 
-  /*.footer {
+  .footer {
     line-height: 0;
+    height: 175px;
+  }
 
-  }*/
+  .footer .container {
+    position: relative;
+    top: 30px;
+  }
 }
