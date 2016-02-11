@@ -132,4 +132,10 @@ h1 {
     position: relative;
     top: 30px;
   }
+
+  .footer ul {
+    float: none;
+    margin-left: 100px;
+  }
+
 }
